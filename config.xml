@@ -1,0 +1,17 @@
+<files>
+    <file>
+       <name>file1</name>
+       <values>abc,pqr,der</values>
+    </file>
+
+    <file>
+       <name>file2</name>
+       <values>abc,pqr,der</values>
+    </file>
+
+    <file>
+       <name>file3</name>
+       <values>abc,pqr,der</values>
+    </file>
+
+</files>
